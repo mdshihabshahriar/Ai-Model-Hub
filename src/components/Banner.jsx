@@ -5,7 +5,7 @@ import BannerImage from "../assets/banner.png";
 const Banner = () => {
   return (
     <div className="relative min-h-162.5 flex items-center overflow-hidden">
-      <div className=" mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center relative z-10">
+      <div className="mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center relative z-10">
         {/* Left Content */}
         <div className="space-y-4">
           <div className="inline-flex items-center gap-2 bg-red-500/10 border border-red-500/30 text-red-400 text-sm font-medium px-5 py-2 rounded-full">
@@ -16,7 +16,7 @@ const Banner = () => {
             One Subscription.
             <br />
             <span className="bg-linear-to-r from-red-400 via-orange-400 to-amber-400 bg-clip-text text-transparent">
-              All the AIs You Need
+              All the AI's You Need
             </span>
           </h1>
 

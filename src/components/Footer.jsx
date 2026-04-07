@@ -104,14 +104,8 @@ const Footer = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="mt-16 pt-8 border-t border-zinc-800 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-500">
+        <div className="mt-16 pt-8 border-t border-zinc-800 flex flex-col md:flex-row items-center justify-center gap-4 text-sm text-zinc-500">
           <div>© {new Date().getFullYear()} AI Hub. All rights reserved.</div>
-
-          <div className="flex gap-6">
-            <a href="#" className="hover:text-red-400 transition">
-              Made with ❤️ for AI enthusiasts
-            </a>
-          </div>
         </div>
       </div>
     </footer>
