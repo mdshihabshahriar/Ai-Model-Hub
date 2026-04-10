@@ -1,16 +1,35 @@
-# React + Vite
+# 🚀 AI Model Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: https://ai-model-hub-0.netlify.app/  
 
-Currently, two official plugins are available:
+## 📌 Overview
+AI Model Hub is a modern web application designed to simplify the discovery of AI tools and models.  
+It provides a centralized platform where users can explore categorized AI resources efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+In today’s rapidly growing AI ecosystem, tools are scattered across multiple platforms.  
+This project aims to solve that problem by offering a clean and structured hub for AI exploration.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- 🔍 Categorized AI tools (Text, Image, Data, Automation, etc.)
+- ⚡ Fast and responsive UI
+- 🎯 User-friendly navigation
+- 💡 Clean and modern design
+- 📱 Fully responsive (Mobile, Tablet, Desktop)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React.js  
+- **Styling:** Tailwind CSS, DaisyUI  
+- **Language:** JavaScript (ES6+)  
+
+---
+
+### 🔧 Installation
+```bash
+git clone https://github.com/mdshihabshahriar/Ai-Model-Hub.git
+cd Ai-Model-Hub
+npm install
+npm run dev
